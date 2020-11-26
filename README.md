@@ -1,3 +1,3 @@
 # compose-coffee
-Basic coffee homepage : navber, main visual
+Basic coffee homepage : navbar, main visual
 
